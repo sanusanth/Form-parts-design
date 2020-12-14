@@ -15,5 +15,6 @@
 
 <p>Try to type words that are incorrect inside the input and the textarea. Remove the spellcheck attribute and try again to see the difference.</p>
 <center><p> Creater By <b> Sanusanth </center>
+<a href="https://github.com/sanusanth">Visit my profile.com!</a>
 </body>
 </html>
