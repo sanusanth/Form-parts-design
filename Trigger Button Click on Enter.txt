@@ -18,5 +18,6 @@ input.addEventListener("keyup", function(event) {
 });
 </script>
 <center> <p> Create By <b> Sanusanth </b> </center>
+<a href="https://github.com/sanusanth">Visit my profile.com!</a>
 </body>
 </html>
