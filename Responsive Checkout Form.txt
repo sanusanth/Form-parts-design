@@ -191,6 +191,7 @@ span.price {
 </div>
 <center>
 <p> creater by <b> sanushanth </p>
+<a href="https://github.com/sanusanth">Visit my profile.com!</a>
 </center>
 </body>
 </html>
