@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+</style>
+</head>
+<body>
+
+<h2>Hide Input Number Arrows</h2>
+<p><strong>Note:</strong> It is still possible to increment the number when you scroll inside the number input.</p>
+
+<input type="number" value="5">
+<center> <p> Creater By <b> Sanusanth </b> </p> </center>
+</body>
+</html>
