@@ -23,5 +23,6 @@ input[type=number] {
 
 <input type="number" value="5">
 <center> <p> Creater By <b> Sanusanth </b> </p> </center>
+<a href="https://github.com/sanusanth">Visit my profile.com!</a>
 </body>
 </html>
