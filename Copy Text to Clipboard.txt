@@ -18,7 +18,7 @@ function myFunction() {
   alert("Copied the text: " + copyText.value);
 }
 </script>
-<center><p> Creater By <b> Sanusanth </p> </center>
+<center><p> Creater By <b> Sanusanth  </p> </center>
 <a href="https://github.com/sanusanth">Visit my profile.com!</a>
 </body>
 </html>
