@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+#myDIV {
+  background-color: lightblue;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  50% {margin: 50px;}
+}
+</style>
+</head>
+<body>
+
+<h1>Animation of margin</h1>
+
+<p>Gradually change the margin from 0px to 50px, and back to 0px:<p>
+
+<div id="myDIV">
+This is my DIV element.
+</div>
+
+<p><b>Note:</b> CSS Animations do not work in Internet Explorer 9 and earlier versions.</p>
+<center><p> Creater By<b>Sanusanth </b></p></center>
+</body>
+</html>
