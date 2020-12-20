@@ -13,7 +13,7 @@
 <p>Fill in and submit the form, then reload the page to see how autocomplete works.</p>
 <p>Notice that autocomplete is "on" for the last name field, but "off" for the first name field.</p>
 <center> <p> Creater By <b> Sanusanth </p> </center>
-<a href="https://github.com/sanusanth">Visit my profile.com!</a>
-</body>
+<a href="https://github.com/Sanusanth">Visit my profile.com!</a>
+</body
 </html>
 
